@@ -1,7 +1,5 @@
 # Cyber-Security-Final-Project
 
-## Homework 24 - Final Project
-
 ### Links
 
 * [Offensive Report](./OffensiveReport.md)
